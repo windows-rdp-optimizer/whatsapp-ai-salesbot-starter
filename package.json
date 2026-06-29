@@ -1,0 +1,22 @@
+{
+  "name": "whatsapp-ai-salesbot-starter",
+  "version": "1.0.0",
+  "description": "A lightweight Node.js template to connect OpenAI API to WhatsApp.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "whatsapp",
+    "openai",
+    "ai",
+    "sales-bot",
+    "customer-support"
+  ],
+  "author": "Pakish",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.14.0"
+  }
+}
